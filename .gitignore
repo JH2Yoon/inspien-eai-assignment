@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/response.json
+/decrypted-connections.json
+/sample-data.xml
